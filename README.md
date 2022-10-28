@@ -5,7 +5,7 @@
 
 --> Move into the directory where we have the project files : 
 ```bash
-cd 
+cd photoshare
 
 ```
 
