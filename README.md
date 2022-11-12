@@ -46,5 +46,6 @@ python manage.py runserver
 
 #
 
+
 ### App Preview :
 <img width="1422" alt="Screenshot 2022-10-28 at 22 07 52" src="https://user-images.githubusercontent.com/54496175/198723250-7141fdc0-4f2d-413b-a701-9f6857cb09ce.png">
